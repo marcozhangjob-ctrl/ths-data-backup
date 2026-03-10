@@ -1,0 +1,54 @@
+{
+  "initialCash": 50000000,
+  "cash": 45000001.7468,
+  "positions": [
+    {
+      "code": "1033.HK",
+      "name": "中石化油服",
+      "market": "港股",
+      "exchange": "HK",
+      "buyDate": "2026-03-06",
+      "buyPrice": 1.16,
+      "shares": 2342578,
+      "buyAmount": 2499999.2416000003,
+      "canSellDate": "2026-03-06"
+    },
+    {
+      "code": "1033.HK",
+      "name": "中石化油服",
+      "market": "港股",
+      "exchange": "HK",
+      "buyDate": "2026-03-09",
+      "buyPrice": 1.39,
+      "shares": 1954957,
+      "buyAmount": 2499999.0116000003,
+      "canSellDate": "2026-03-09"
+    }
+  ],
+  "trades": [
+    {
+      "type": "买入",
+      "code": "1033.HK",
+      "name": "中石化油服",
+      "market": "港股",
+      "date": "2026-03-06",
+      "price": 1.16,
+      "shares": 2342578,
+      "amount": 2499999.2416000003,
+      "ratio": 5
+    },
+    {
+      "type": "买入",
+      "code": "1033.HK",
+      "name": "中石化油服",
+      "market": "港股",
+      "date": "2026-03-09",
+      "price": 1.39,
+      "shares": 1954957,
+      "amount": 2499999.0116000003,
+      "ratio": 5
+    }
+  ],
+  "netValue": 1,
+  "previousNetValue": 1
+}

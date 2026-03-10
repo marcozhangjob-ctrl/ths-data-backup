@@ -1,0 +1,50 @@
+尝试加载同花顺接口，路径: /home/openclaw/.openclaw/workspace/bin64
+路径是否存在: True
+/usr/local/lib/python3.12/dist-packages/iFinDPy.pth
+同花顺接口已加载成功
+正在初始化同花顺接口...
+✓ 同花顺接口登录成功
+==================================================
+股票组合模拟交易 Web服务
+==================================================
+[OK] 同花顺接口已加载
+请在浏览器打开: http://localhost:5002
+==================================================
+ * Serving Flask app '股票组合模拟交易_同花顺实时'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.1.110:5002
+Press CTRL+C to quit
+127.0.0.1 - - [09/Mar/2026 15:04:33] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [09/Mar/2026 15:04:34] "GET /api/summary HTTP/1.1" 200 -
+127.0.0.1 - - [09/Mar/2026 15:04:37] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [09/Mar/2026 15:04:37] "GET /api/summary HTTP/1.1" 200 -
+127.0.0.1 - - [09/Mar/2026 15:04:40] "GET /api/summary HTTP/1.1" 200 -
+127.0.0.1 - - [09/Mar/2026 15:04:40] "POST /api/save HTTP/1.1" 200 -
+127.0.0.1 - - [09/Mar/2026 15:04:41] "POST /api/save HTTP/1.1" 200 -
+127.0.0.1 - - [09/Mar/2026 15:04:41] "GET /api/summary HTTP/1.1" 200 -
+127.0.0.1 - - [09/Mar/2026 15:04:46] "GET /api/excel-name/0386.HK HTTP/1.1" 200 -
+127.0.0.1 - - [09/Mar/2026 15:04:46] "GET /api/price/0386.HK HTTP/1.1" 200 -
+127.0.0.1 - - [09/Mar/2026 15:04:47] "GET /api/excel-name/0386.HK HTTP/1.1" 200 -
+127.0.0.1 - - [09/Mar/2026 15:04:47] "GET /api/price/0386.HK HTTP/1.1" 200 -
+127.0.0.1 - - [09/Mar/2026 15:04:48] "GET /api/summary HTTP/1.1" 200 -
+127.0.0.1 - - [09/Mar/2026 15:04:50] "GET /api/summary HTTP/1.1" 200 -
+127.0.0.1 - - [09/Mar/2026 15:04:50] "POST /api/save HTTP/1.1" 200 -
+127.0.0.1 - - [09/Mar/2026 15:04:51] "GET /api/summary HTTP/1.1" 200 -
+127.0.0.1 - - [09/Mar/2026 15:04:52] "GET /api/summary HTTP/1.1" 200 -
+127.0.0.1 - - [09/Mar/2026 15:05:18] "GET /api/summary HTTP/1.1" 200 -
+127.0.0.1 - - [09/Mar/2026 15:05:28] "GET /api/summary HTTP/1.1" 200 -
+127.0.0.1 - - [09/Mar/2026 15:05:37] "GET /api/summary HTTP/1.1" 200 -
+127.0.0.1 - - [09/Mar/2026 15:05:38] "GET /api/price/0386.HK HTTP/1.1" 200 -
+127.0.0.1 - - [09/Mar/2026 15:05:38] "GET /api/summary HTTP/1.1" 200 -
+127.0.0.1 - - [09/Mar/2026 15:05:38] "GET /api/summary HTTP/1.1" 200 -
+127.0.0.1 - - [09/Mar/2026 15:05:48] "GET /api/summary HTTP/1.1" 200 -
+127.0.0.1 - - [09/Mar/2026 15:05:59] "GET /api/summary HTTP/1.1" 200 -
+127.0.0.1 - - [09/Mar/2026 15:06:07] "GET /api/summary HTTP/1.1" 200 -
+127.0.0.1 - - [09/Mar/2026 15:06:18] "GET /api/summary HTTP/1.1" 200 -
+127.0.0.1 - - [09/Mar/2026 15:06:25] "GET /api/price/0386.HK HTTP/1.1" 200 -
+127.0.0.1 - - [09/Mar/2026 15:06:25] "GET /api/summary HTTP/1.1" 200 -
+127.0.0.1 - - [09/Mar/2026 15:06:25] "GET /api/summary HTTP/1.1" 200 -
+127.0.0.1 - - [09/Mar/2026 15:06:29] "GET /api/summary HTTP/1.1" 200 -
